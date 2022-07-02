@@ -17,6 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
+Um clone da tela do netflix.
 ## 💻 Autor
 <table>
   <tr>
